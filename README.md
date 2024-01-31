@@ -1,6 +1,5 @@
 # esx_vehicleshop
-
-ESX Vehicle Shop adds an vehicle shop to the game, where employeed players can sell vehicles to other players. You can also disable the job part so any player can buy vehicles with a menu based interaction.
+esx_vehicleshop rebuild, memakai ox_lib dan ox_target
 
 ## Requirements
 
@@ -8,30 +7,21 @@ ESX Vehicle Shop adds an vehicle shop to the game, where employeed players can s
   * No need to download other resources
 
 * Player management (the car dealer job): billing, boss actions and more!
-  * [esx_society](https://github.com/esx-framework/esx_society)
-  * [esx_billing](https://github.com/esx-framework/esx_billing)
-  * [esx_addonaccount](https://github.com/esx-framework/esx_addonaccount)
-  * [esx_addoninventory](https://github.com/esx-framework/esx_addoninventory)
-  * [cron](https://github.com/esx-framework/esx_core/tree/main/%5Bcore%5D/cron)
+  * [ox_lib](https://github.com/overextended/ox_lib)
+  * [ox_target](https://github.com/overextended/ox_target)
 
 ## Download & Installation
-
-### Using [fvm](https://github.com/qlaffont/fvm-installer)
-
-```
-fvm install --save --folder=esx esx-org/esx_vehicleshop
-```
 
 ### Using Git
 
 ```
 cd resources
-git clone https://github.com/esx-framework/esx_vehicleshop [esx]/esx_vehicleshop
+git clone https://github.com/rozirwobari/esx_vehicleshop.git [esx]/esx_vehicleshop
 ```
 
 ### Manually
 
-- Download https://github.com/esx-framework/esx_vehicleshop/archive/refs/heads/main.zip
+- Download https://github.com/rozirwobari/esx_vehicleshop/archive/refs/tags/V1.0.0.zip
 - Put it in the `[esx]` directory
 
 ### Installation
