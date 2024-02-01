@@ -30,7 +30,6 @@ git clone https://github.com/rozirwobari/esx_vehicleshop.git [esx]/esx_vehiclesh
 ```
 start esx_vehicleshop
 ```
-- If you want player management you have to set `Config.EnablePlayerManagement` to `true` in `config.lua`
 
 ## Legal
 
