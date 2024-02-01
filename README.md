@@ -2,10 +2,8 @@
 esx_vehicleshop rebuild, memakai ox_lib dan ox_target
 
 ## Requirements
-
-* Auto mode (everyone can buy vehicles from the dealer)
-  * [ox_lib](https://github.com/overextended/ox_lib)
-  * [ox_target](https://github.com/overextended/ox_target)
+* [ox_lib](https://github.com/overextended/ox_lib)
+* [ox_target](https://github.com/overextended/ox_target)
 
 ~~Player management (the car dealer job): billing, boss actions and more!~~
 
