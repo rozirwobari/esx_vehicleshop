@@ -1,11 +1,11 @@
 ConfigDealer = {}
-ConfigDealer.lokasi = vector4(-740.3068, -1289.9763, 4.1019, 209.0700)
-ConfigDealer.spawnCoordsBuy = vector4(-743.7446, -1298.3586, 4.6516, 116.2358)
+ConfigDealer.lokasi = vector4(-32.9827, -1100.2917, 25.4224, 74.5581)
+ConfigDealer.spawnCoordsBuy = vector4(-46.8061, -1081.6644, 26.3943, 72.5034)
 ConfigDealer.blips = {
 	label = 'Dealer Lokal',
 	sprite = 1,
 	color = 1,
 	scale = 0.8,
 }
-ConfigDealer.spawnShop = vector4(-735.2781, -1294.7843, 4.6515, 116.2358)
-ConfigDealer.spawnShopCam = vector4(-741.3839, -1297.9417, 5.0004, 297.1500)
+ConfigDealer.spawnShop = vector4(-44.6125, -1098.4203, 26.0746, 250.8594)
+ConfigDealer.spawnShopCam = vector4(-38.8492, -1100.4641, 26.4223, 66.5182)
